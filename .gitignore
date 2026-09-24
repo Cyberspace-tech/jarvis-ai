@@ -1,0 +1,7 @@
+venv/
+__pycache__/
+*.pyc
+memory.db
+logs.txt
+.env
+.vscode/
